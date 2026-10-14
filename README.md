@@ -72,4 +72,4 @@ Power BI Desktop, Power Query, DAX, Excel
 
 ## Author
 **Vrshy**: aspiring Data Analyst / Data Scientist
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/varshiganesan) | [GitHub](https://github.com/vrshy)
