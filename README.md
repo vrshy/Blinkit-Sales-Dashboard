@@ -62,7 +62,7 @@ Power BI Desktop, Power Query, DAX, Excel
 |---|---|
 | `BlinkIT_Dashboard.pbix` | Power BI report (open in Power BI Desktop) |
 | `BlinkIT_Grocery_Data.xlsx` | Source dataset |
-| `| Problem Statements
+| `Problem_Statement.pptx` | Problem Statements
 | `dashboard_screenshot.png` | Preview of the dashboard |
 
 ## How to Use
