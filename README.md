@@ -71,5 +71,5 @@ Power BI Desktop, Power Query, DAX, Excel
 4. Use the slicers to explore sales by item type, outlet size and location tier.
 
 ## Author
-**Vrshy**: aspiring Data Analyst / Data Scientist
+**VARSHINI GANESAN**: aspiring Data Analyst / Data Scientist
 [LinkedIn](https://www.linkedin.com/in/varshiganesan) | [GitHub](https://github.com/vrshy)
