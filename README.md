@@ -59,7 +59,6 @@ Conduct a comprehensive analysis of Blinkit's sales performance, customer satisf
 1. Look at why Seafood (0.8% of sales) and Breakfast (1.3%) sell so little: range, pricing or placement.
 2. Since sales per item are flat, grow sales by adding items and outlets in strong areas (Tier 3, Medium size), rather than expecting a particular outlet format to perform better.
 3. Check why High-sized outlets bring in only about 21% of sales, and whether their space is being used well.
-4. Track the 2018 outlet group, which stands out in the establishment-year chart (about $205K vs about $130K for most other years).
 
 ## Limitations
 - The data has no dates for each sale, so there is no monthly trend or seasonality.
