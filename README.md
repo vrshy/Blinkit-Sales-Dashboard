@@ -53,6 +53,23 @@ Conduct a comprehensive analysis of Blinkit's sales performance, customer satisf
 - **Medium-sized** outlets lead with 42% of sales; High-sized outlets contribute only about 21%.
 - **Supermarket Type 1** accounts for about **65%** of total sales, far ahead of the other outlet types.
 - Seafood and Breakfast items have the lowest sales, a possible area to review.
+- - **Average sales per item is almost the same everywhere** (about $140–142) across outlet types, sizes and location tiers, and ratings are about 4.0 throughout. The leaders in total sales lead because they stock more items, not because each item sells better.
+
+## Recommendations
+1. Look at why Seafood (0.8% of sales) and Breakfast (1.3%) sell so little: range, pricing or placement.
+2. Since sales per item are flat, grow sales by adding items and outlets in strong areas (Tier 3, Medium size), rather than expecting a particular outlet format to perform better.
+3. Check why High-sized outlets bring in only about 21% of sales, and whether their space is being used well.
+4. Track the 2018 outlet group, which stands out in the establishment-year chart (about $205K vs about $130K for most other years).
+
+## Limitations
+- The data has no dates for each sale, so there is no monthly trend or seasonality.
+- It has no cost or profit data, so the analysis covers sales only, not profitability.
+- `Item Weight` is missing in about 1,460 rows (17%) and was not used. `Item Visibility` is 0 for 526 items, which is probably missing data.
+- Sales per record are similar across groups, so the totals mostly show how many records each group has.
+- **Data source:** BlinkIT grocery sales dataset provided with the tutorial "VIDEO TITLE" by CHANNEL NAME on YouTube.
+
+## What I added
+I followed a Power BI tutorial for the dashboard build. On top of it, I wrote the business requirement breakdown, documented the data cleaning, checked the numbers in Python (including that average sales per item is nearly the same across outlet types, sizes and tiers), and wrote the insights, recommendations and limitations.
 
 ## Tools Used
 Power BI Desktop, Power Query, DAX, Excel
